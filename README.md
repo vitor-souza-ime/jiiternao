@@ -28,9 +28,8 @@ This project provides a benchmark tool to measure the **temporal jitter** and **
 - Python 3.8+  
 - NAOqi Python SDK  
 - Dependencies:
-  ```bash
+
   pip install opencv-python numpy pandas
-````
 
 ## Usage
 
