@@ -1,0 +1,12 @@
+NAO Camera Benchmark Summary
+==============================
+
+TEMPORAL JITTER RESULTS:
+VGA_15fps: 3.7fps (24.9%), Jitter: 208.3ms RMS, CV: 20.1%
+VGA_30fps: 3.8fps (12.6%), Jitter: 236.5ms RMS, CV: 18.8%
+QVGA_15fps: 11.9fps (79.3%), Jitter: 34.1ms RMS, CV: 34.9%
+QVGA_30fps: 10.8fps (35.9%), Jitter: 68.5ms RMS, CV: 36.7%
+
+SPATIAL STABILITY:
+VGA_15fps: Stability 0.2791, Frame diff: 2.58±0.44
+VGA_30fps: Stability 0.2902, Frame diff: 2.45±0.22
