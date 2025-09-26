@@ -32,8 +32,6 @@ This project provides a benchmark tool to measure the **temporal jitter** and **
   pip install opencv-python numpy pandas
 ````
 
----
-
 ## Usage
 
 1. Clone the repository:
